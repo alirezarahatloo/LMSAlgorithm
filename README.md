@@ -1,2 +1,2 @@
 # LMSAlgorithm
-this matlab code can reducte noise and play estimate signal.
+This matlab code can reducte noise and play estimate signal.
