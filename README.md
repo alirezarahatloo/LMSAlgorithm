@@ -1,2 +1,2 @@
 # LMSAlgorithm
-this code can reducte noise and play estime signal.
+this code can reducte noise and play estimate signal.
