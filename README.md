@@ -1,4 +1,4 @@
 # LMSAlgorithm
 This matlab code can reduce noise and play estimate signal.
 
-![image](https://user-images.githubusercontent.com/7072483/203233959-812a06b3-67a0-40aa-9f54-7f159f1d9734.png)
+![image](https://user-images.githubusercontent.com/7072483/203238671-7bc62786-6d5e-4a8a-85b6-11e69b095501.jpg)
